@@ -1,2 +1,2 @@
-# LearningGit
-Hello world ! is common in demo 
+
+Git is very easy but pratice is important
